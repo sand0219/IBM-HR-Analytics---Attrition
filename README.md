@@ -1,5 +1,4 @@
 # IBM-HR-Analytics---Attrition
-Employee Attrition
 
 Employee Attrition is the loss of an employee through a naturally occurring event/process.
 
